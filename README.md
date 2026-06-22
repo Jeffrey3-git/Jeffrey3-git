@@ -12,8 +12,11 @@ A passionate and aspiring **Data Scientist, AI Engineer, and Full-Stack Develope
 
 ---
 
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeffrey3-git&show_icons=true&theme=onedark" alt="Jeffrey's GitHub Stats" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Jeffrey3-git&theme=onedark&column=7" alt="github-trophy" />
+  </a>
 </p>
 
 ---
